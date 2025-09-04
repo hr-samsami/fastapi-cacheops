@@ -1,3 +1,5 @@
-redis==6.4.0
+redis>=5.0.1
 sqlalchemy==2.0.36
+aiosqlite>=0.19.0
+greenlet>=3.1.1
 ipykernel==6.29.5
