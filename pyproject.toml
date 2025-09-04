@@ -10,6 +10,3 @@ dependencies = [
     "sqlalchemy>=2.0.36",
 ]
 
-[[tool.uv.index]]
-url = "https://repo.mci.dev/artifactory/api/pypi/pypi/simple"
-default = true
